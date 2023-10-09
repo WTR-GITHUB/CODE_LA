@@ -1,0 +1,8 @@
+Kai padarome pokycius rasome
+    git status
+Pridedame naujus failus, kad butu sekami ir atnaujinami
+    git add <failo arba aplanko pavadinimas>
+Paleidziame komand1 kuri apraso pokycius
+    git commit -m "initial commit"
+Paleidziame komanda kuri nustumia pokycius i GIT HUB aplinka
+    git push
